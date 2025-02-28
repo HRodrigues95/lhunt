@@ -1,3 +1,11 @@
 @import "tailwindcss";
 
+@theme {
+  --color-dark-ambient-50: oklch(28.93% 0.042 265.755);
+  --color-dark-ambient-100: oklch(0.208 0.042 265.755);
+  --color-dark-ambient-200: oklch(19.73% 0.0401 265.755);
 
+  --color-blue-ambient-100: oklch(47.92% 0.1976 264.93);
+
+  --color-blood-red-100: oklch(30.86% 0.1991 32.82);
+}

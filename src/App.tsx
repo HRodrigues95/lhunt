@@ -4,7 +4,9 @@ import './App.css'
 
 function App() {
   return (
-    <AppRoutes />
+    <div className='bg-dark-ambient-100'>
+      <AppRoutes />
+    </div>
   )
 }
 
